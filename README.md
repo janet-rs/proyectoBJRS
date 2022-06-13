@@ -34,15 +34,17 @@ Crear un producto Wearable que ofrezca al usuario opciones como la localización
 
 | Componente | Descripción | Imagen | Cantidad |
 | --- | --- | --- | --- |
-| ESP32 Cam| Pequeño módulo que incluye el procesador IOT ESP32-S con WIFI y Bluetooth incorporado, una cámara OV2640 de 2MP y algunos pines adicionales para conectar cualquier dispositivo como sensores o actuadores.| {} | 1|
-| Sensor DHT11 | sensor que mide humedad y temperatura. Es ideal para sistemas de medición climatológicos o para controles de temperatura y humedad. Este sensor además incluye un transductor interno de temperatura del tipo NTC. | {} | 1|
-| Buzzer | Un buzzer o zumbador es un dispositivo que es capaz de enviar avisos a través del sonido. Puede ser mecánico, electromecánico o piezoeléctrico. | {} | 1 |
-| Sensor de pulso | Este módulo de detección combina un fototransistor y un LED que, cuando se coloca un dedo o el lóbulo de la oreja, proporciona una lectura. | {} | 1 |
-| Pulsador | Un botón pulsador es básicamente un interruptor que podemos accionar pulsando sobre él, mientras lo mantenemos pulsado el interruptor estará cerrado, generando continuidad; cuando lo soltemos, el interruptor se abrirá. | {} | 1 |
-| Cables jumper | Estos se usan para conectarse desde cualquier header hembra o macho en cualquier placa. Múltiples jumpers se pueden conectar uno al lado del otro en un conector de 2.54mm. Viene en un paquete de diez jumpers.| {} | 1 | 
-| Cable USB | Cable de transferencia de datos universal USB 3.1 macho a Micro USB macho sincronización OTG Cable de transferencia de datos | {} | 1 |
+| ESP32 Cam| Pequeño módulo que incluye el procesador IOT ESP32-S con WIFI y Bluetooth incorporado, una cámara OV2640 de 2MP y algunos pines adicionales para conectar cualquier dispositivo como sensores o actuadores.|![descarga (2)](https://user-images.githubusercontent.com/72764702/173450333-8f7f206c-6882-4c1a-9f74-1b39394adc5a.jpg) | 1|
+| Sensor DHT11 | sensor que mide humedad y temperatura. Es ideal para sistemas de medición climatológicos o para controles de temperatura y humedad. Este sensor además incluye un transductor interno de temperatura del tipo NTC. |![download](https://user-images.githubusercontent.com/72764702/173450465-1c0f6742-a695-41de-90b3-51ab577a5671.jpg) | 1|
+| Buzzer | Un buzzer o zumbador es un dispositivo que es capaz de enviar avisos a través del sonido. Puede ser mecánico, electromecánico o piezoeléctrico. |![images](https://user-images.githubusercontent.com/72764702/173450570-0863472a-7034-449e-bc82-0ac7a63fb323.jpg) | 1 |
+| Sensor de pulso | Este módulo de detección combina un fototransistor y un LED que, cuando se coloca un dedo o el lóbulo de la oreja, proporciona una lectura. |![download](https://user-images.githubusercontent.com/72764702/173450779-7e753fac-a0cc-45da-8efc-7d97714dbcf3.jpg) | 1 |
+| Pulsador | Un botón pulsador es básicamente un interruptor que podemos accionar pulsando sobre él, mientras lo mantenemos pulsado el interruptor estará cerrado, generando continuidad; cuando lo soltemos, el interruptor se abrirá. | ![download](https://user-images.githubusercontent.com/72764702/173450937-94501c69-f639-4264-8257-49dc8c230aa8.jpg) | 1 |
+
 
 ## D I A G R A M A 
 
+![LLavero2](https://user-images.githubusercontent.com/72764702/173451280-c2bd8f5d-6f68-4daf-ac40-0c2453e34811.png)
 
 ## T A B L E R O
+![IMG_20220608_165415 1](https://user-images.githubusercontent.com/72764702/173451749-f19deb28-d6ec-40ef-af9d-2ff1e8e895fb.jpg)
+
