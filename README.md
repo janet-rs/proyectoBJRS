@@ -46,5 +46,6 @@ Crear un producto Wearable que ofrezca al usuario opciones como la localización
 ![LLavero2](https://user-images.githubusercontent.com/72764702/173451280-c2bd8f5d-6f68-4daf-ac40-0c2453e34811.png)
 
 ## T A B L E R O
-![IMG_20220608_165415 1](https://user-images.githubusercontent.com/72764702/173451749-f19deb28-d6ec-40ef-af9d-2ff1e8e895fb.jpg)
+
+![IMG_20220608_165415 1](https://user-images.githubusercontent.com/72764702/173451954-607272b4-cee6-4432-9c51-effce2f5281c.jpg)
 
