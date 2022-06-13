@@ -32,12 +32,4 @@ Crear un producto Wearable que ofrezca al usuario opciones como la localización
 ## M A T E R I A L E S 
 | Componente | Descripción | Imagen | Cantidad |
 | --- | --- | --- | --- |
-| ESP32 Cam| - CPU de 32 bits de doble núcleo de baja potencia para procesadores de aplicaciones
--	Frecuencia principal de hasta 240 MHz
--	Potencia de cálculo de hasta 600 DMIPS
--	SRAM integrado de 520 KB
--	PSRAM externo de 4 M
--	Es ideal para interfaces como: UART. SPI. I2C. PWM. ADC. DAC
--	Apoyo imagen WiFi subir
--	Apoyo TF tarjeta|{}| 1|
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+| ESP32 Cam| El ESP32-CAM es un pequeño módulo (en tamaño, no en prestaciones) que incluye el procesador IOT ESP32-S con WIFI y Bluetooth incorporado, una cámara OV2640 de 2MP y algunos pines adicionales para conectar cualquier dispositivo como sensores o actuadores.| {} | 1|
